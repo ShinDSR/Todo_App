@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="welcome">Welcome in Todo App</string>
+    <string name="tvname">Nama</string>
+    <string name="tvpass">Password</string>
+    <string name="etnama">Masukkan Nama</string>
+    <string name="etpass">Masukkan Password</string>
+    <string name="btnsignin">SIGN-IN</string>
+    <string name="tvregister">Register</string>
+    <string name="tvemail">Email</string>
+    <string name="tvrepass">Re-Password</string>
+    <string name="etemail">Masukkan Email</string>
+    <string name="etrepass">Masukkan ulang Password</string>
+    <string name="btnregister">REGISTER</string>
+    <string name="tvelcome">Selamat Datang</string>
+    <string name="tvtaks">Task</string>
+    <string name="tvjenist">Jenis Task</string>
+    <string name="tvtimet">Time Task</string>
+    <string name="ettask">Masukkan Task</string>
+    <string name="etjenist">Masukkan Jenis Task</string>
+    <string name="ettimet">Masukkan Lama Task</string>
+</resources>
